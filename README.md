@@ -47,7 +47,6 @@
 </table>
 
 
-![David Github Stats](https://github-readme-stats.vercel.app/api?username=qq986945193&show_icons=true_color=fff&icon_color=0000FF&text_color=000000&bg_color=ffffff)
 
 
 
